@@ -1,0 +1,21 @@
+body{
+    background-color: beige;
+    display: flex;
+    height: 100vh;
+}
+.image{
+    margin: 0 auto;
+    display: block;
+}
+
+.middle{
+    border-radius: 0;
+}
+
+.label{
+    font-size: 0.1em;
+}
+
+.main{
+    margin: auto;
+}
